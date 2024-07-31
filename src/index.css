@@ -1,0 +1,223 @@
+/* Parent component container */
+.parent-container {
+  display: flex;
+  flex-direction: column;
+}
+
+/* MyComponent container */
+.my-component {
+  margin-bottom: 20px; /* Add some space between each component */
+}
+
+/* Toggle button */
+.toggle-button {
+  padding: 5px 10px;
+  font-size: 14px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+}
+
+/* Table container */
+.table-container {
+  margin-top: 10px; /* Add some space between button and table */
+  overflow-x: auto;
+}
+
+/* Data table */
+.data-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+/* Table header */
+.data-table th {
+  background-color: #d3e0ee;
+  color: #080808;
+  padding: 10px;
+}
+
+/* Table body */
+.data-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.home-title {
+  font-size: 32px;
+  margin-bottom: 30px;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.home-button {
+  background-color: #b6cee9;  
+  color: rgb(8, 8, 8);
+  font-weight: bolder;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-bottom: 50px;
+}
+
+.home-button:hover {
+  background-color: #0056b3;
+}
+
+.button-link {
+  text-decoration: none;
+  width:320px;
+}
+
+.name_and_btn{
+  display: flex;
+  flex-direction: row;
+  width: 400px;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+
+input{
+  width: 86px;  
+}
+
+#submit1{
+  margin-top: 30px;
+}
+
+label{
+  padding-left: 10px;
+}
+
+.check1{
+  width: 40px
+}
+
+.check2{
+  width: 15px
+}
+
+.form-div{
+  padding-top: 40px;
+  padding-bottom: 35px;
+}
+
+label{
+  font-weight: bold;
+}
+
+#crs{
+  padding-left: 0px;
+}
+
+.btn_heading{
+  width: 100%;
+}
+
+.gen_h1{
+  float: none;
+  padding-bottom: 50px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.form-field {
+  display: flex;
+  flex-direction: column;
+  padding-left: 60px;
+  padding-bottom: 20px;
+  gap: 5px;
+  width:25%;
+}
+
+label {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.data-table th,
+.data-table td {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.data-table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+ border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.dropdown {
+  display: flex;
+  align-items: flex-start;
+  gap: 5px;
+}
+
+.table-container {
+  overflow-x: auto;
+}
+
+.scsd_input{
+  width:97%;
+}
+
+.select{
+  display:flex;
+  flex-direction: row;
+}
+
+#grpinput{
+  width:50px;
+}
