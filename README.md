@@ -24,8 +24,8 @@ Download or clone this repository to a local file. To run the program, initializ
 ## Authors
 
 * Richard Xavier Pious
-* Eric Mathew  @Eric480
-* Ananth Arul  @Ananth-427
+* Eric Mathew  
+* Ananth Arul  
 * Ananya Kuriakose
  
 This project is a continuation of the work done by our seniors at Rajagiri School of Engineering and Technology.
