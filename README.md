@@ -11,19 +11,20 @@ An in-depth paragraph about your project and overview of use.
 ### Dependencies
 
 * React
-* Apache
+* Apache (XAMPP)
 * MySQL
 * Any code editor (eg. VSCode)
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* https://react.dev/learn/installation
+* https://www.apachefriends.org/download.html
+* https://www.mysql.com/downloads/
 
 
 ## Authors
 
-* Richard Xavier Pious
-* Eric Mathew
-* Ananth Arul
-* Ananya Kuriakos
+-> Richard Xavier Pious
+-> Eric Mathew
+-> Ananth Arul
+-> Ananya Kuriakose
